@@ -65,17 +65,23 @@
         .subscription-block{
             display: block;
             position: absolute;
-            top:0px;
+            top: 30%;
+            left:35%;
             align-items: center;
             
             .subscribed-text{
                 color: white;
                 font-size: medium;
-
+                font-weight: 400;
+                text-transform: capitalize;
             }
             .not-subscribed{
                 background-color: red;
                 color: white;
+                text-align: center;
+                padding: 5px 20px;
+                border-radius: 16px;
+                font-weight: 800;
             }
         }
     }

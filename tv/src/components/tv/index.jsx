@@ -19,7 +19,6 @@ function getChannel(channels,index){
 
 
 function setSubscribe(channels,index,setChannels){
-    console.log("Here///")
     setChannels((prevState) => 
         prevState.map((item) =>
         {

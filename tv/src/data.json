@@ -30,31 +30,31 @@
         "channelNo":"05",
 		"name": "Jackie Chan",
 		"image":"public/channel_images/jackiechan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"6",
         "channelNo":"06",
 		"name": "Shinchan",
 		"image":"public/channel_images/shinchan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"7",
         "channelNo":"07",
 		"name": "Jackie Chan",
 		"image":"public/channel_images/jackiechan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"8",
         "channelNo":"08",
 		"name": "Shinchan",
 		"image":"public/channel_images/shinchan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"9",
         "channelNo":"09",
 		"name": "Jackie Chan",
 		"image":"public/channel_images/jackiechan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"10",
         "channelNo":"10",
@@ -66,60 +66,246 @@
         "channelNo":"11",
 		"name": "Jackie Chan",
 		"image":"public/channel_images/jackiechan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"12",
         "channelNo":"12",
 		"name": "Shinchan",
 		"image":"public/channel_images/shinchan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},
 	{
         "id":"13",
         "channelNo":"13",
 		"name": "Jackie Chan",
 		"image":"public/channel_images/jackiechan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"14",
         "channelNo":"14",
 		"name": "Shinchan",
 		"image":"public/channel_images/shinchan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},
 	{
         "id":"15",
         "channelNo":"15",
 		"name": "Jackie Chan",
 		"image":"public/channel_images/jackiechan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"16",
         "channelNo":"16",
 		"name": "Shinchan",
 		"image":"public/channel_images/shinchan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"17",
         "channelNo":"17",
 		"name": "Jackie Chan",
 		"image":"public/channel_images/jackiechan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"18",
         "channelNo":"18",
 		"name": "Shinchan",
 		"image":"public/channel_images/shinchan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"19",
         "channelNo":"19",
 		"name": "Jackie Chan",
 		"image":"public/channel_images/jackiechan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"20",
         "channelNo":"20",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":true
+	},	{
+        "id":"21",
+        "channelNo":"21",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":true
+	},{
+        "id":"22",
+        "channelNo":"22",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":true
+	},
+	{
+        "id":"23",
+        "channelNo":"23",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":true
+	},{
+        "id":"24",
+        "channelNo":"24",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":true
+	},
+	{
+        "id":"25",
+        "channelNo":"25",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"26",
+        "channelNo":"26",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},{
+        "id":"27",
+        "channelNo":"27",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"28",
+        "channelNo":"28",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},{
+        "id":"29",
+        "channelNo":"29",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"30",
+        "channelNo":"30",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},{
+        "id":"31",
+        "channelNo":"31",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"32",
+        "channelNo":"32",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},
+	{
+        "id":"33",
+        "channelNo":"33",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"34",
+        "channelNo":"34",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},
+	{
+        "id":"35",
+        "channelNo":"35",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"36",
+        "channelNo":"36",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},{
+        "id":"37",
+        "channelNo":"37",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"38",
+        "channelNo":"38",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},{
+        "id":"39",
+        "channelNo":"39",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"40",
+        "channelNo":"40",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},{
+        "id":"41",
+        "channelNo":"41",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"42",
+        "channelNo":"42",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},
+	{
+        "id":"43",
+        "channelNo":"43",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"44",
+        "channelNo":"44",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},
+	{
+        "id":"45",
+        "channelNo":"45",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"46",
+        "channelNo":"46",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},{
+        "id":"47",
+        "channelNo":"47",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"48",
+        "channelNo":"48",
+		"name": "Shinchan",
+		"image":"public/channel_images/shinchan.jpeg",
+		"subscribed":false
+	},{
+        "id":"49",
+        "channelNo":"49",
+		"name": "Jackie Chan",
+		"image":"public/channel_images/jackiechan.jpeg",
+		"subscribed":false
+	},{
+        "id":"50",
+        "channelNo":"50",
 		"name": "Shinchan",
 		"image":"public/channel_images/shinchan.jpeg",
 		"subscribed":false
