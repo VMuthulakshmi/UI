@@ -60,7 +60,7 @@
         "channelNo":"10",
 		"name": "Shinchan",
 		"image":"public/channel_images/shinchan.jpeg",
-		"subscribed":false
+		"subscribed":true
 	},{
         "id":"11",
         "channelNo":"11",
