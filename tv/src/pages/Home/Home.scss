@@ -55,8 +55,23 @@
         display: none;
     }
     &.tv-on{
+        .control{
+            position: absolute;
+            bottom: 10%;
+            display: flex;
+        }
         .program-control,.volume-control{
             display: block;
+            background-color: white;
+            border:2px solid black;
+            padding: 10px;
         }  
+        .program-control{
+
+        }
+        .each-control{
+            padding: 10px;
+        }
     }
+
 }

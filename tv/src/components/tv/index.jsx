@@ -31,28 +31,6 @@ function setSubscribe(channels,index,setChannels){
 
         ),
     );
-//     setChannels(prevState => ({
-//         ...prevState,
-//         prevState[index].subscribed :true,
-//   })
-// )
-
-    // for(let i=0;i<channels.lenght;i++){
-    //     setChannels()
-    // }
-  //  setChannels(prevState=>{prevState})
-    // setChannels(prevState=>({
-    //     channels: prevState.map((ele)=>{
-    //         // console.log("Element ",ele);
-    //         // return ele;
-    //         // if(ele.id=== index)
-    //         // {
-    //         //     return ele.subscribed=true   
-    //         // }else{
-    //         //     return ele;
-    //         // }
-    //     })
-    // }))
 }
 
 function subscriptionLayout(channels,index,setChannels){

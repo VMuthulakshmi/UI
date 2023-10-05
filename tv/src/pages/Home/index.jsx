@@ -25,17 +25,21 @@ export default function Home() {
                     <div className="each-btn off">OFF</div>
                 </div>
             </div>
+            <div className='control'>
             <div className='program-control'>
+                PRO
                 <div className='controls'>
                     <div className='each-control' onClick={()=>setVol((vol+1)<=maxVol ? vol+1 :vol )}>+</div>
                     <div className='each-control' onClick={()=>setVol((vol-1)>=0 ? vol-1 :vol )}>-</div>
                 </div>
             </div>
             <div className='volume-control'>
+                VOL
                 <div className='controls'>
                     <div className='each-control' onClick={()=>setActiveChannel((activeChannel+1) % maxChannel)}>+</div>
                     <div className='each-control' onClick={()=>setActiveChannel((activeChannel-1) % maxChannel)}>-</div>
                 </div>
+            </div>
             </div>
         </div>
     )
