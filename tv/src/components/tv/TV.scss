@@ -1,0 +1,83 @@
+.tv{
+    border: 16px solid black;
+    border-radius: 16px;
+    height: 350px;
+    width: 650px;
+    margin-bottom: 150px;
+    background-color: #A9A9A9;
+    overflow: hidden;
+    position: relative;
+    .channels{
+        display: none;
+    }
+    .volume-status{
+        display: none;
+    }
+    .subscription-block{
+        display: none;
+    }
+    &.show{
+        .channels{
+            display: block;
+            &.hide{
+                .channel-no{
+                    display: none;
+                }
+            }
+            .each-channel{
+                &.not-subscribed{
+                    .channel-image{
+                        filter: blur(4px);
+                    }
+                }
+                .channel-no{
+                    position: absolute;
+                    right:3%;
+                    top:5%;
+    
+                }
+                .channel-image{
+                    width: 650px;
+                    height: 350px;
+                }
+            }
+        }
+        .volume-status{
+            position: absolute;
+            bottom: 20px;
+            display: flex;
+            gap: 3px;
+            left: 10px;
+            align-items: center;
+            &.hide{
+                display:none;
+            }
+            .volume-text{
+                color: white;
+                font-weight: 500;
+            }
+            .white-bar{
+                height: 20px;
+                width: 8px;
+                background-color: white;
+            }
+        }
+        .subscription-block{
+            display: block;
+            position: absolute;
+            top:0px;
+            align-items: center;
+            
+            .subscribed-text{
+                color: white;
+                font-size: medium;
+
+            }
+            .not-subscribed{
+                background-color: red;
+                color: white;
+            }
+        }
+    }
+
+}
